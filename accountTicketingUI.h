@@ -1,12 +1,3 @@
-// ===================================================================================
-//  Assignment: 1 
-//  Milestone : 4
-// ===================================================================================
-//  Student Name  : Nasim Khodapanah
-//  Student ID    : 131929200
-//  Student Email : nkhodapanah@myseneca.ca
-//  Course Section: NGG
-// ===================================================================================
 
 #ifndef ACCOUNT_TICKETING_UI_H_
 #define ACCOUNT_TICKETING_UI_H_
